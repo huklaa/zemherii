@@ -1,1 +1,1 @@
-Project configuration settings
+Project config 1

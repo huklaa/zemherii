@@ -1,1 +1,1 @@
-Bug fixes documentation
+Bug docs 1
